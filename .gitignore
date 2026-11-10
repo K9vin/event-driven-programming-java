@@ -48,3 +48,7 @@ nbdist/
 # OS specific
 .DS_Store
 Thumbs.db
+
+# Maven target
+target/
+week08-javafx-bindings/target/
